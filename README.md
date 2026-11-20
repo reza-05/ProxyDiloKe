@@ -33,10 +33,10 @@ A squad of **1 to 4 student detectives** must interrogate classroom suspects, tr
 
 ## 👥 Team Members
 
-* **Saraf** (Student ID: 210041001)
-* **Md. Shifat Reza** (Student ID: 210041002)
-* **Arian** (Student ID: 210041003)
-* **Tamim** (Student ID: 210041004)
+* **Mutsavi Saraf** (Student ID: 240041123)
+* **Md. Shifat Reza** (Student ID: 240041113)
+* **Abrar Faiyaz Arian** (Student ID: 240041135)
+* **Ahad Kaisar Tamim** (Student ID: 240041125)
 
 ---
 *Department of Computer Science and Engineering (CSE)*  
